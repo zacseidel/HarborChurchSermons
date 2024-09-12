@@ -3,7 +3,7 @@ Harbor Church Sermons
 
 Steps
 1. Download transcripts
-2. Summarize transcripts with GPT
+2. Summarize transcripts with GPT - Sermon Insight
 3. Clean and summarize
 
 Summarization Prompt:
