@@ -1,6 +1,23 @@
 # HarborChurchSermons
 Harbor Church Sermons
 
+Relation Information
+- Series have sermons
+- Sermons have a date, speaker, views, transcript, summary, tags, verses
+- Verses have words, bigrams, trigrams, with stopwords or without; tags
+- Topics have tags
+  
+
+
+
+
+Inputs
+
+Outputs
+
+
+
+
 Steps
 1. Download transcripts
 2. Summarize transcripts with GPT - Sermon Insight
